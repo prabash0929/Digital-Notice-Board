@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505781818613",
+    "project_id": "digitalnoticeboard-fb73c",
+    "storage_bucket": "digitalnoticeboard-fb73c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505781818613:android:d5d30c53482a65b36361bc",
+        "android_client_info": {
+          "package_name": "com.example.digital_notice_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2kdKXhp1TWol9Cjck6w-QC9xaF3i8x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
